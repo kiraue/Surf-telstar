@@ -10,4 +10,4 @@ surf_telstar_b4_skial_tvd:  Same as above.
 
 surf_telstar_b4_ct:  Current version.
 
-The _skial along with the _ct versions were modified and published to skial with the help of Cream Tea
+The _skial along with the _ct versions were modified and published to skial with the help of Cream Tea ( https://steamcommunity.com/profiles/76561198072549382 )
